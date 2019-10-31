@@ -1,0 +1,2 @@
+# wordparsingandsorting
+A program that opens the file romeo.txt and reads it line by line. For each line, it splits the line into a list of words using the split() method. The program will build a list of words. For each word on each line, it checks to see if the word is already in the list and if not will append it to the list. When the program completes, it will sort and print the resulting words in alphabetical order.
